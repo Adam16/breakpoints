@@ -48,3 +48,13 @@ Created by [XOXCO](http://xoxco.com)
 		...
 	});
 
+
+## Tests
+
+Install dependencies and run the Jest suite:
+
+```
+npm install
+npm test
+```
+
